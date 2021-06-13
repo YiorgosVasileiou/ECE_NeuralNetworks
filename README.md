@@ -1,5 +1,7 @@
 # ECE_NeuralNetworks
-Repository for projects undertaken as part of "Neural Networks and Intelligent Computer Systems", NTUA, School of Electrical and Computer Engineering.
+Repository for projects undertaken as part of "Neural Networks and Intelligent Computer Systems", NTUA, School of Electrical and Computer Engineering. All these projects were two person excercises.
+
+Georgios Vasileiou
 
 ## Lab 1: Classifier Performance Comparison on Epileptic Seizure Recognition Data Set
 
@@ -15,4 +17,4 @@ Networks built and evaluatied with TensorFlow and Keras frameworks. Trained netw
 
 ## Lab 4: Reinforcement Learning Agents to play ENDURO on Atari2600
 
-Reinforcement Learning agents' training and comparisson on various Stable Baselines 3 (SB3) environments. Excercise includes cross-training models on various environments to achieve both ease-of-training and agent performance. Furthermore includes evaluation on non-deterministic SB3 environments, to quantify agent overtraining.
+Reinforcement Learning agents' training and comparisson on various Stable Baselines 3 (SB3) environments. Excercise includes cross-training models on various environments to achieve both ease-of-training and agent performance. Furthermore includes evaluation on non-deterministic SB3 environments, to quantify agent overtraining
